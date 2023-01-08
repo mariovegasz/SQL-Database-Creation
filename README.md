@@ -26,4 +26,5 @@ Project that consists of the creation of a relational database with SQL
 
 ## ERR Diagram
 
-![Diagrama](https://user-images.githubusercontent.com/119113483/210857749-c703a674-a7c0-462d-b9c4-3a0bfa67d109.jpg)
+
+![Diagrama](https://user-images.githubusercontent.com/119113483/211194739-ac24c447-31e2-4ad7-ba7d-9dc781e18b96.jpg)
